@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content">
+    <item
+        android:id="@+id/menu_item_history"
+        android:title="Ride history" />
+    <item
+        android:id="@+id/menu_item_add_bike"
+        android:title="Add new bike"/>
+    <item
+        android:id="@+id/menu_item_user"
+        android:title="Your account"/>
+    <item
+        android:id="@+id/menu_item_logout"
+        android:title="Sign out"/>
+</menu>
